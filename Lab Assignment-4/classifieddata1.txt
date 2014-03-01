@@ -1,0 +1,144 @@
+Number of labels: 5
+Number of documents in training set: 17
+Tweet: 1	MichaelJacksonAmericanrecordingartist,actor,producer,dancer,businessman1982Pop,rock,R&B42.451-65
+  funk: -7.946787282224139  metal: -7.930061740701492  pop: -6.625553086380435  rock: -4.40336653644013  track: -7.7585586024597974 => rock
+Tweet: 2	PinkFloydwereanEnglishrockbandthatachievedinternationalacclaim1973Progressive,rock22.745
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 3	EaglesAmericanrockbandformedinLosAngelesin1971(1971�1975)1976Country,rock,folk,rock32.242
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 4	WhitneyHoustonwasanAmericanrecordingartist,singer,actress,producer,andmodelTheBodyguard1992Sound,track/R&B,soul,pop,27.442
+  funk: -7.946787282224139  metal: -7.930061740701492  pop: -4.697681370226519  rock: -8.93428554344187  track: -5.155511311611974 => pop
+Tweet: 5	AC/DCAustralianhardrockband1980Hard,rock,heavy,metal,25.940
+  funk: -11.28371101628591  metal: -9.131637022874894  pop: -14.625126638135733  rock: -11.403377581216121  track: -11.016443509052042 => metal
+Tweet: 6	BeeGees/popmusicgroupSaturdayNightFever1977,metal,18.940
+  funk: -6.223095047050834  metal: -3.420197509267535  pop: -9.501533998207394  rock: -8.787945918967429  track: -6.075693975000677 => metal
+Tweet: 7	FleetwoodMacBritish-Americanrockband1977Soft,rock,26.840
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 8	ShaniaTwainComeAfricanContinent1997Country,pop,29.639
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 9	LedZeppelinAntraciticancontinent1971Hard,rock,heavy,metal,29.037
+  funk: -11.28371101628591  metal: -9.131637022874894  pop: -14.625126638135733  rock: -11.403377581216121  track: -11.016443509052042 => metal
+Tweet: 10	MeatLoafBatAsianContinent1977Hard,rock,progressive,rock20.534
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 11	AlanisMorissetteAdityaDeshpandeAlternative,rock,24.833
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 12	TheBeatlesSgtRakeshReddyKondikindi,Rock,13.132
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 13	EaglesHotelIndianapolisAshokRudrarajuCountry,rock/Hard,rock,21.532
+  funk: -7.156791413834072  metal: -8.077194855352014  pop: -7.245853871611822  rock: -3.6987787608551743  track: -6.987274683193998 => rock
+Tweet: 14	MariahCareyHolmesAvinashDesiReddy,Pop/R&B/Rock/17.232
+  funk: -13.007403251459214  metal: -13.641501254308851  pop: -9.821274010154859  rock: -11.549717205690563  track: -10.096260845663338 => pop
+Tweet: 15	VariousartistsVanaparthiBalaShashank,Pop,rock,R&B17.932
+  funk: -7.946787282224139  metal: -7.930061740701492  pop: -6.625553086380435  rock: -4.40336653644013  track: -7.7585586024597974 => rock
+Tweet: 16	EltonJohnGoodbyeKolliperaSreeCharanReddy,Rock,31
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 17	TheBeatlesKolliperaWedsCalcuttaSurendra,Rock,21.631
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 18	TheBeatlesAvinashLoverEkkadundi,Rock,14.330
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 19	BruceSpringAdityaInfosysloennidayschesadu,Rock,19.630
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 20	CelineDionStudentunionloivvalasaridepronoykirankijobvundi,Pop/Soft,rock,20.030
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 21	CelineDionDSTKULFIGADUINTERVIEWCHESIMALLIPILAVEDU,Pop/Soft,rock,19.230
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 22	DireStraitsVMWAREVADUADUKUNTUNADU,Rock,18.630
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 23	WhitneyHoustonBankofamericavadudobbeymanadu,Pop,R&B17.230
+  funk: -2.886171312989063  metal: -2.2186222270941336  pop: -1.5019604464520966  rock: -1.7879348741914365  track: -2.817809068408433 => pop
+Tweet: 24	JamesHornerTitanic:IntelloashokkideveoperprogarampostvachidiSound,track,18.130
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 25	MadonnaTheAdityakirepujobvundipadukovalaniantunnadu,Pop/Dance,20.130
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 26	MetallicaRakeshgaduhyderabadtechiesgrouplorachachesthunaduThrash,metal/heavy,metal,19.930
+  funk: -8.800785318572927  metal: -4.836889650343073  pop: -13.437198095660403  rock: -12.428032167163147  track: -8.592328725666524 => metal
+Tweet: 27	MichaelJacksonIndiasrilankamatchkasepatlobeginavthundi,Pop,funk,rock,18.430
+  funk: -7.680488616843643  metal: -12.734859422317161  pop: -14.625126638135733  rock: -11.403377581216121  track: -11.016443509052042 => funk
+Tweet: 28	MichaelJacksonmstharwathaconsultancyafulltimea,Rock/Funk/Pop,16.330
+  funk: -7.680488616843643  metal: -12.734859422317161  pop: -14.625126638135733  rock: -11.403377581216121  track: -11.016443509052042 => funk
+Tweet: 29	PinkFloydPrakashgaduasesubjectloprojectchesthunaduProgressive,rock,17.130
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 30	SantanaSuperavinashzhengdeggararesearchassistantgaexcelchesthunadu,Rock,20.530
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 31	ABBAGold:repuhealthsciencebuldinglojobvundi,Pop,28
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 32	Adelehdhfkjgjhdjgd,Pop,soul28
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 33	BonJoviNareshrockdudegadusavagodthunaduHard,rock,28
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 34	GunsN'RosesnenumohanthoholmeslocelebrationschesukunanivaguthunaduHeavy,metal,/hard,rock28
+  funk: -6.223095047050834  metal: -3.420197509267535  pop: -9.501533998207394  rock: -8.787945918967429  track: -6.075693975000677 => metal
+Tweet: 35	SpiceGirlskininrestaurantdeggaralobaguntundidavidanteashokkibagaistam,Pop,28
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 36	VariousartistsGrease:prajalavaddakipalananicongressmunchesindiSound,track,28
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 37	BritneySpears...repumanakipakistanthomatchvundi9,Pop,26
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 38	NirvanaokadikeindianstoreloninchithechinandhukudabbuluivvaliGrunge/Alternative,rock,26
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 39	BobMarley&TheWailersLegend:manojgaduthegahadavidichesthunadu,pop,25
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 40	CaroleKingghulamgadudisaivvamantefundslevaniantunadu,Pop,25
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 41	Madonnachoinetworkingclasspadimandinipattukundi,Pop,25
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 42	MariahCareypraveenraobigdatabigdataantadu,Pop,R&B25
+  funk: -9.109266360039896  metal: -9.242042135803935  pop: -5.897850037036454  rock: -10.575880793158866  track: -8.89350304340911 => pop
+Tweet: 43	NorahJonesrepatninchibagaworkekkuvaavthundi,track,25
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 44	QueenGreatestavinashgadunetravatledanigolachesthunadu,Rock,25
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 45	Simon&GarfunkelrepoellundoadityagaduinternkodathaduFolk,rock,25
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 46	U2TheJoshuaashokkiswinneylobestemployeeawardvachindi,Rock,25
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 47	WhitneyHoustonashokasalivurubhimavaram,Pop,R&B25
+  funk: -9.109266360039896  metal: -9.242042135803935  pop: -5.897850037036454  rock: -10.575880793158866  track: -8.89350304340911 => pop
+Tweet: 48	BackstreetBoysBacksadityaasalavuruadilabad,Pop,24
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 49	BackstreetBoysrepatninchishashankgadikibayatajobvundi,Pop,24
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 50	LinkinParknakuivvalanighteoutputvasthebaguntundiNu,metal,rap,metal,alternative,rock,24
+  funk: -13.861401287808004  metal: -10.54832916395043  pop: -18.560790735588743  rock: -15.04346382941184  track: -13.53307825971789 => metal
+Tweet: 51	AceofBaseHappykcrdelhininchivachakabagareceivechesukunaru,Pop,23
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 52	TLCCrazySexyrepatninchiavinashkikakigavuntaduR&B,track,23
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -3.195720923774422  rock: -7.146350669250433  track: -2.3377022432035415 => track
+Tweet: 53	Oasis(What'stheStory)manamekkadikinazookiandaramkalisivellaliBrit,pop,rock,22
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 54	BonJoviCrosspedanannadadkigodavaainatluundiHard,rock,21
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 55	EminemTheMarshallMatherspedammatenaliloamummavallathovuntundi,Rap,hip-hop21
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 56	Madonnacalifornialomavaduemchesthunado,Pop,dance,21
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 57	Barbrawwesmackdownkansascitykivasthundi,Pop,20
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 58	BostonvammoidichalarodgavundiHard,rock,20
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 59	Britneypresidentofindiaispranab,Pop,20
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 60	DefLeppardIndiaisgonnawinthematch,Pop,Hard,rock,20
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 61	Georgesaibabaismyfavouritegod,Pop/R&B20
+  funk: -7.531880567654618  metal: -5.191013843377037  pop: -6.324331449624161  rock: -4.339939210890989  track: -7.353479424520516 => rock
+Tweet: 62	EricClaptonilovemymomAcousticblues,folk,rock,20
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 63	LionelRichieilovemydad,Pop,R&B,soul,20
+  funk: -7.946787282224139  metal: -7.930061740701492  pop: -4.697681370226519  rock: -8.93428554344187  track: -5.155511311611974 => pop
+Tweet: 64	MichaelJacksonilovemygrandpa,Pop,rock,R&B20
+  funk: -12.592496536889694  metal: -10.902453356984395  pop: -11.447924089552501  rock: -6.955370873139682  track: -12.29422895857188 => rock
+Tweet: 65	MichaelJacksonilovemygrandmaSoul,metal,R&B20
+  funk: -13.754975614705451  metal: -8.611211352644574  pop: -15.825865447831555  rock: -13.127885129858416  track: -13.429173399521193 => metal
+Tweet: 66	PhilCollinsilovemybrother,Pop,Rock,20
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 67	Prince&TheRevolutionjeevithamanteporatam,Pop,rock,R&B20
+  funk: -12.592496536889694  metal: -10.902453356984395  pop: -11.447924089552501  rock: -6.955370873139682  track: -12.29422895857188 => rock
+Tweet: 68	ShaniaTwainporatamlovundijayamCountry,pop,20
+  funk: 0.0  metal: 0.0  pop: 0.0  rock: 0.0  track: 0.0 => funk
+Tweet: 69	SupertrampgelavatammukyamvodipovatamsatyamProgressive,rock,art,rock20
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 70	TinaTurnershirditemplemallikanpisthebaguntundukalalo,Rock,20
+  funk: -5.060615969235076  metal: -5.711439513607359  pop: -5.123592639928339  rock: -2.615431662248693  track: -4.940749534051364 => rock
+Tweet: 71	UsherbagundianthabagundiR&B20
+  funk: -4.6457092546655545  metal: -2.9723916162829043  pop: -4.822371003172064  rock: -2.5520043366995524  track: -4.535670356112083 => rock
