@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Debt Predictor</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<style>
+	footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
+	</style>
+	
+<script>
+		
+		
+		$(document).ready(function(){
+        $("mp").click(function(){
+          var Population = $('#txtpop').val();
+          var Total.Revenue = $('#tr').val();
+		 
+		  $.ajax({
+  url : "http://134.193.136.127:8983/solr/collection1_shard1_replica1/select?q=id%3ATej&wt=json&indent=true",
+  dataType : "json",
+  error: function(request, status, error) { alert(request.error) },
+  success : function(parsed_json) {
+      
+       //console.log(parsed_json);
+          var a = parsed_json['response']['docs']['0']['title']['0'];
+		  var b1 = parsed_json['response']['docs']['0']['title']['1'];
+		  var b2 = parsed_json['response']['docs']['0']['title']['2'];
+		  
+
+	      var result = a + (b1*Total.Revenue)+(b2*Population);
+		  $('#result').html("<strong>Predicted Debt: </strong> "+ result +"");
+
+		  
+
+      
+  }
+
+  });
+});
+ 
+		  
+		 </script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+     
+        <div class="container-fluid">
+        <div class="jumbotron" style="padding-top: 6px;padding-bottom: 6px;color: #FFFFFF;background-color:#61BAF6" >
+            <h1>Debt Predictor</h1>
+            
+        </div>
+        </div>
+
+        <div class="container">
+          <div class="row">
+		  <label for="Total Revenue">Total Revenue</label>
+            <input type="text" name="Total Revenue" id="tr" />
+			
+		
+			
+			<label for="Population">Population</label>
+			<input type="text" name="Population" id="pop" />
+			
+			<input type="button" value="Make Prediction" id="mp" />
+
+          </div>
+		  </div>
+        
+		
+       <footer>
+          <div class="container">
+          
+            <p align="center"> @ KDM HACKATON </p>
+            
+		  </div>
+          
+		  
+        </footer> 		
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

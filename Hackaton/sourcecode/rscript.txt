@@ -1,0 +1,11 @@
+Model1 = read. table("C:\Users\tejkiran\Desktop\examdata.csv", header=TRUE)  
+>Model1
+>plot(Model1)
+>result1 = lm(Total.Debt.Outstanding ~ Total.Revenue+Population, data=result1)
+>summary(result1)
+>plot(result1)
+>result2 = lm(Total.Debt.Outstanding ~ Total.Revenue+Population+Total.Taxes+General.Revenue, data=result2)
+anova(result1, result2)
+predict(result1,data.frame(Total.Revenue=30000, Population=20000),interval="confidence")
+									
+predict(result1,data.frame(Total.Revenue=30000, Population=20000),interval="prediction")
